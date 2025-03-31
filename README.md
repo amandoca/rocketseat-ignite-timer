@@ -98,3 +98,9 @@ npm run lint
 🎯 Projeto focado em **produtividade**, **boas práticas** e **componentização com React**.  
 🔥 Pronto para explorar o Ignite Timer? 
 
+## 📸 Screenshot
+
+
+![localhost_3001_](https://github.com/user-attachments/assets/19260b8f-7505-48cd-84a1-df8bdac81960)
+
+![localhost_3001_history](https://github.com/user-attachments/assets/82b6a65d-8788-438f-b355-b445a0d3d670)
